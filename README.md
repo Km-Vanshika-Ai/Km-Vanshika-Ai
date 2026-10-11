@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Vanshika! 👋
 
-<!--
-**Km-Vanshika-Ai/Km-Vanshika-Ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Aspiring AI Engineer | Python Learner
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a beginner developer learning Python and exploring
+Artificial Intelligence and Automation.
+
+### 🚀 What I'm Learning
+- 🐍 Python Programming
+- 🧠 Artificial Intelligence
+- ⚙️ Automation
+- 💡 Problem Solving
+
+### 🛠️ Skills
+- Python (Beginner)
+- GitHub
+- VS Code
+
+### 📂 My Projects
+- 🧮 Calculator using Python
+- 🎯 Number Guessing Game
+- ✅ To-Do List App
+- ❓ Quiz Game
+
+### 🎯 My Goal
+My goal is to become an AI Engineer by learning,
+building projects, and improving my skills every day.
+
+### 🌟 My Learning Journey
+I'm learning step by step and sharing my progress
+as I grow as a developer.
+
+Thanks for visiting my profile! 💜
